@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Apeksha Rajput</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 📫 I am a sophomore currently pursuing B.Tech in Computer Science from Indira Gandhi Delhi Technical University for Women, Delhi
+- 📫 I am a sophomore currently pursuing B.Tech in Computer Science from Indira Gandhi Delhi Technical University for Women
 - 📫 How to reach me **apeksharajput05503@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
