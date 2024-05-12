@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Apeksha Rajput</h1>
+<h1 align="center">Hi 👋 I'm Apeksha Rajput</h1>
 <h3 align="center">A passionate Web developer</h3>
 
 - 📫 I am a sophomore currently pursuing B.Tech in Computer Science from Indira Gandhi Delhi Technical University for Women
