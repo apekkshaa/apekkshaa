@@ -3,9 +3,9 @@
 
 - 📫 I am a sophomore currently pursuing B.Tech in Computer Science from Indira Gandhi Delhi Technical University for Women
 - 📫 How to reach me **apeksharajput05503@gmail.com**
-- 📫 [Visit my Website here](https://apekkshaa.github.io/Portfolio-website/)
-- 📫 [Visit my Projects here](https://apekkshaa.github.io/Projects-website/)
-- 📫 [Visit my Personal Blog here](https://apekkshaa.github.io/personal-blog/)
+- 📫 [Visit my Website](https://apekkshaa.github.io/Portfolio-website/)
+- 📫 [Visit my Projects](https://apekkshaa.github.io/Projects-website/)
+- 📫 [Visit my Personal Blog](https://apekkshaa.github.io/personal-blog/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
