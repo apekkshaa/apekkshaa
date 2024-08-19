@@ -4,7 +4,7 @@
 - 📫 I am a pre-final currently pursuing B.Tech in Computer Science from Indira Gandhi Delhi Technical University for Women
 - 📫 How to reach me **apeksharajput05503@gmail.com**
 - 📫 [Visit my Website](https://apekkshaa.github.io/Portfolio-website/)
-- 📫 [Visit my Projects](https://apekkshaa.github.io/Projects-website/)
+- 📫 [Visit my Projects](https://apekkshaa.github.io/Personal-Website/)
 - 📫 [Visit my Personal Blog](https://apekkshaa.github.io/personal-blog/)
 
 <h3 align="left">Connect with me:</h3>
