@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Apeksha Rajput</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">A Web developer</h3>
 
 - 📫 I am a pre-final currently pursuing B.Tech in Computer Science from Indira Gandhi Delhi Technical University for Women
 - 📫 How to reach me **apeksharajput05503@gmail.com**
